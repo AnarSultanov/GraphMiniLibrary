@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.anarsultanov.graphminilibrary.algorithms"},{"l":"com.anarsultanov.graphminilibrary.graph"},{"l":"com.anarsultanov.graphminilibrary.utilities"}]
