@@ -21,7 +21,7 @@ graph.removeEdge("B", "C");
 ```
 #### Use algorithms and get the result.
 Note: 
-- Initial data og the graph is not changed during calculations.
+- Initial data of the graph is not changed during calculations.
 - All algorithms are calculated asynchronously; therefore, CompletableFuture is returned.
 ```java
 Graph<Integer> graph = new BasicGraph<>();
